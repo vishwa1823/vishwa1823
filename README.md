@@ -1,5 +1,4 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/zRZQ3sA.gif" width="100%" alt="Welcome banner">
 
 # 👋 Hi, I'm Vishwa!  
 🎓 **B.Tech in Electronics and Communication Engineering (ECE)**  
@@ -56,8 +55,7 @@ Built a **hardware-based password lock** using a **transistor** and **DIP switch
 | Category | Tools & Skills |
 |-----------|----------------|
 | 💬 Languages | <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-orange?logo=coffeescript&logoColor=white"> |
-| ⚙️ Embedded & IoT | <img src="https://img.shields.io/badge/ESP32-black?logo=espressif&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-blue?logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/PYNQ--Z2-purple?logo=xilinx&logoColor=white"> |
-| 🤖 AI/ML & Tools | <img src="https://img.shields.io/badge/OpenCV-green?logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white"> |
+| ⚙️ Embedded & IoT | <img src="https://img.shields.io/badge/ESP32-black?logo=espressif&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-blue?logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/PYNQ--Z2-purple?logo=xilinx&logoColor=white"> 
 | 🔧 Platforms | GitHub, VS Code, Blynk |
   
 </div>
@@ -67,7 +65,7 @@ Built a **hardware-based password lock** using a **transistor** and **DIP switch
 ## 🏆 Achievements & Activities  
 
 - 🥇 **Hackathon Winner** – Recognized for innovative embedded solutions  
-- 🧩 Organized **Quadcopter & RC Car** event at *Aaruush Fest*  
+- 🧩 Organized **Quadcopter & RC Car** event at *Aaruush Tech Fest*  
 - 🤝 **NSS Volunteer** – Dedicated to service and teamwork  
 
 ---
@@ -77,21 +75,12 @@ Built a **hardware-based password lock** using a **transistor** and **DIP switch
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="160">
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="http://linkedin.com/in/vishwa-s-177324241/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="mailto:vishwassv2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue">
+  
 </p>
 
 ---
